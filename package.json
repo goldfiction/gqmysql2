@@ -1,12 +1,12 @@
 {
   "name": "gqmysql2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main":"main.js",
   "repository":"git@github.com:goldfiction/gqmysql2.git",
   "description":"gqmysql2 is an easy to use wrapper around gqmysql. It cleaned up both query and results.",
   "license":"Apache-2.0",
   "dependencies": {
-    "gqmysql":"0.1.23",
+    "gqmysql":"0.1.21",
     "lodash":"4.17.11"
   }
 }
