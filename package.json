@@ -7,7 +7,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "gqmysql": "0.1.21",
-    "lodash": "4.17.19"
+    "lodash": "4.17.21"
   },
   "scripts":{
     "compile":"coffee -c ."
